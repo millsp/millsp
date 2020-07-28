@@ -10,7 +10,7 @@ Former C, C++, and Java programmer, I completely switched to **JS**, **TS**, and
 
 I love fighting complexity. There is nothing worse for a developer than being anxious because of overwhelming cognitive loads. Guess what, TypeScript is our best friend in this quest. A year ago, I started building the [ts-toolbelt](https://github.com/millsp/ts-toolbelt) — A collection of superpowers for TypeScript. It offers unique dynamic features, allowing you to write type-safe software more easily and in less time than you do today.
 
-I've learnt many things in my quest for type safety, now I want to go further. More type safety for my fellow developers! I'm actively working on a utility library (similar to lodash/ramda) but that is specifically built with TypeScript in mind. It will harness all the power from the ts-toolbelt to bring near-100% type safety. Like with Rust, if your programs compiles, you will have the guarantee that it won't crash. That said, this is very complex to achieve, and all my TypeScript knowledge will go into this.
+I've learnt many things in my quest for type safety, now I want to go further. More type safety for my fellow developers! I'm actively working on a utility library (similar to lodash/ramda) but that is specifically built with TypeScript in mind. That said, this is very complex to achieve, and all my TypeScript knowledge will go into this.
 
 And that will just be the base for what comes next! A fully typed ORM, and a fully typed RPC based on WebSockets.
 
